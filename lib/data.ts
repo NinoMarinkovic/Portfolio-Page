@@ -119,11 +119,11 @@ export const stack: StackCategory[] = [
   },
   {
     label: "Cloud & DevOps",
-    items: ["Docker", "Render", "Aiven", "GitHub Actions CI", "Gunicorn", "Linux (fundamentals)"],
+    items: ["Docker", "Render", "Aiven", "GitHub Actions CI", "Linux (fundamentals)"],
   },
   {
     label: "Tooling",
-    items: ["Git (merge-based workflow)", "Bootstrap", "AutoCAD / FreeCAD", "Arduino"],
+    items: ["Git", "Bootstrap"],
   },
 ];
 
