@@ -41,10 +41,8 @@ export default function About() {
               with GitHub Actions running on every push.
             </p>
             <p className="text-lg leading-relaxed text-muted">
-              Outside of code, I work with Arduino and 3D modeling in AutoCAD and FreeCAD — the
-              same instinct for how systems fit together, just in hardware instead of software.
-              I&apos;m currently preparing for a summer 2026 internship with Plansee Group or IBF
-              Solutions, with the goal of joining the DACH workforce full-time by 2027.
+             Outside of technology, I enjoy playing football, spending time with friends and family, reading, and staying active through sports. These activities help me maintain balance, develop discipline, and continuously improve—qualities I also bring into software development.
+             I'm currently completing IT internships at Plansee Group and IBF Solutions while continuing to build full-stack applications and expand my knowledge of backend development and cloud technologies.
             </p>
 
             <dl className="mt-8 grid grid-cols-2 gap-6 border-t border-border pt-8">

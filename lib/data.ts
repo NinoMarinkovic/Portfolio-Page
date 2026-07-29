@@ -6,7 +6,7 @@ export const profile = {
   tagline:
     "I build backend systems and deploy them like they have to survive production — because I make them.",
   summary:
-    "Student at HTL Reutte studying Industrial Engineering and Business Informatics, building full-stack applications end to end: schema design, auth, CI/CD, and hardened cloud deployment. Preparing for a career as a Backend / Cloud Engineer in the DACH region.",
+    "Student at HTL Reutte studying Industrial Engineering and Business Informatics, building full-stack applications end to end: schema design, auth, CI/CD, and hardened cloud deployment. Preparing for a career as a Software Developer/ Software Engineer.",
   // TODO: replace with your real contact details before deploying
   email: "marinkovic.nino@outlook.com",
   github: "https://github.com/NinoMarinkovic",
