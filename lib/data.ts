@@ -173,11 +173,4 @@ export const roadmap: RoadmapEntry[] = [
     description: "Targeting a summer 2026 internship to build production experience.",
     status: "planned",
   },
-  {
-    tag: "main",
-    date: "2027",
-    title: "Entering the DACH workforce",
-    description: "Graduating HTL Reutte and starting full-time as a Software Developer/Software Engineer.",
-    status: "planned",
-  },
 ];
