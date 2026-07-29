@@ -167,13 +167,6 @@ export const roadmap: RoadmapEntry[] = [
     status: "done",
   },
   {
-    tag: "main",
-    date: "in progress",
-    title: "GitHub Foundations Certification",
-    description: "Currently pursuing — not yet obtained.",
-    status: "in-progress",
-  },
-  {
     tag: "feature/internship",
     date: "Summer 2026",
     title: "Internship — Plansee Group / IBF Solutions",
