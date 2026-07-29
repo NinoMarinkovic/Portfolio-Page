@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const facts = [
-  { label: "Focus", value: "Backend, Cloud, DevSecOps" },
+  { label: "Focus", value: "Software Engineering, Software Development" },
   { label: "Studying", value: "Industrial Engineering & Business Informatics" },
   { label: "Based in", value: "Reutte, Tyrol, Austria" },
   { label: "Targeting", value: "Summer 2026 internship → DACH role by 2027" },

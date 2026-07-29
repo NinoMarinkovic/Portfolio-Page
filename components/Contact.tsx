@@ -16,7 +16,7 @@ export default function Contact() {
         >
           <p className="font-mono text-sm text-accent">05 · Contact</p>
           <h2 className="mt-3 max-w-xl text-balance font-display text-3xl font-medium text-white sm:text-4xl">
-            Open to internship and working-student roles in backend and cloud engineering.
+            Open to internship and working-student roles in Software engineering and Software Development.
           </h2>
 
           <div className="mt-10 flex flex-wrap gap-4">
