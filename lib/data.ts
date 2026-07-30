@@ -10,7 +10,7 @@ export const profile = {
   // TODO: replace with your real contact details before deploying
   email: "marinkovic.nino@outlook.com",
   github: "https://github.com/NinoMarinkovic",
-  linkedin: "https://www.linkedin.com/in/nino-marinkovic",
+  linkedin: "https://www.linkedin.com/in/ninomarinkovic",
 };
 
 export const nav = [
