@@ -4,10 +4,9 @@ export const profile = {
   location: "Reutte, Tyrol, Austria",
   school: "HTL Reutte — Industrial Engineering & Business Informatics",
   tagline:
-    "I build backend systems and deploy them like they have to survive production — because I make them.",
+    "I build backend systems and deploy them the way production systems should be built.",
   summary:
-    "Student at HTL Reutte studying Industrial Engineering and Business Informatics, building full-stack applications end to end: schema design, auth, CI/CD, and hardened cloud deployment. Preparing for a career as a Software Developer/ Software Engineer.",
-  // TODO: replace with your real contact details before deploying
+"HTL student at HTL Reutte studying Industrial Engineering and Business Informatics, building full-stack applications with Flask, MySQL, Docker, CI/CD, and cloud technologies. Aspiring Backend Software Engineer focused on building reliable and maintainable software.",  // TODO: replace with your real contact details before deploying
   email: "marinkovic.nino@outlook.com",
   github: "https://github.com/NinoMarinkovic",
   linkedin: "https://www.linkedin.com/in/ninomarinkovic",
